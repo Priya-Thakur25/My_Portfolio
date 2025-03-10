@@ -1,11 +1,7 @@
-import Jobzoom from '../../assets/JobZoom.jpeg'; 
 import Jobzoom2 from '../../assets/JobZoom2.jpeg'; 
-import TrackU from '../../assets/TrackU.jpeg'; 
 import TrackU2 from '../../assets/TrackU2.jpeg'; 
 import Travel from '../../assets/Travel.jpeg'; 
-import Travel2 from '../../assets/Travel2.jpeg'; 
 import TTT from '../../assets/TTT.jpeg'; 
-import TTT2 from '../../assets/TTT2.jpeg'; 
 
 function Projects() {
     return (<>
