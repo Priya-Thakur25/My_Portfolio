@@ -4,10 +4,11 @@ import About from "./components/SecondSection/About";
 import Skills from "./components/SecondSection/Skills";
 import Projects from "./components/SecondSection/Projects";
 import ContactMe from "./components/ThirdSection/ContactMe";
+import HireMe from "./components/HireMe";
 
 function App(){
   return <div className="overflow-x-hidden">
-    <NavBar/>
+    {/* <NavBar/>
     <hr></hr>
     <Main/> 
     <About/>
@@ -15,7 +16,8 @@ function App(){
     <hr></hr>
     <Projects/>
     <hr></hr>
-    <ContactMe/>
+    <ContactMe/> */}
+    <HireMe/>
   </div>
 }
 

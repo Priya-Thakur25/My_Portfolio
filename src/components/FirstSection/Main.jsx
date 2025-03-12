@@ -23,8 +23,8 @@ function Main() {
                     <p className="hidden md:block text-xl mt-3 md:text-2xl font-medium">a <code className="text-sky-400 font-semibold">Problem solver</code> and a <code className="text-sky-400 font-semibold">Developer</code> who loves turning ideas into reality.</p>
                 </div>
                 <div className="hidden md:block ml-4 md:ml-14 mt-4 md:mt-10 md:w-1/2">
-                    <button className="drop-shadow-[0_4px_10px_rgba(255,255,255,0.3)] bg-sky-400 text-base md:text-xl font-bold mr-4 md:mr-4 p-2 md:p-3 rounded-lg md:pl-2 md:pr-2">Hire Me</button>
-                    <button className="drop-shadow-[0_4px_10px_rgba(255,255,255,0.3)] bg-sky-400 text-base md:text-xl font-bold mr-4 md:mr-4 p-2 md:p-3 rounded-lg md:pl-2 md:pr-2">Let's Connect</button>
+                    <button className="drop-shadow-[0_4px_10px_rgba(255,255,255,0.3)] bg-sky-400 hover:bg-sky-500 text-base md:text-xl font-bold mr-4 md:mr-4 p-2 md:p-3 rounded-lg md:pl-2 md:pr-2">Hire Me</button>
+                    <button className="drop-shadow-[0_4px_10px_rgba(255,255,255,0.3)] bg-sky-400 hover:bg-sky-500 text-base md:text-xl font-bold mr-4 md:mr-4 p-2 md:p-3 rounded-lg md:pl-2 md:pr-2">Let's Connect</button>
                 </div>
                 <div className="hidden md:flex items-center justify-evenly w-1/4 ml-10 mt-4">
                     <a href="https://www.linkedin.com/in/priya-thakur-india/" target="_blank"><FaLinkedin className="text-white m-4 text-5xl transition-transform duration-300 ease-in-out hover:text-[#0A66C2] hover:scale-150" /></a>
